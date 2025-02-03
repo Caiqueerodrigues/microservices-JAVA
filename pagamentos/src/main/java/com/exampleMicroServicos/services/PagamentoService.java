@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 
 import com.exampleMicroServicos.DTO.PagamentoDto;
 import com.exampleMicroServicos.Enums.Status;
-import com.exampleMicroServicos.pagamentos.model.Pagamento;
+import com.exampleMicroServicos.model.Pagamento;
 import com.exampleMicroServicos.repository.PagamentosRepository;
 
 import lombok.RequiredArgsConstructor;

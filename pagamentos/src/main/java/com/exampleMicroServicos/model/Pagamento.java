@@ -1,4 +1,4 @@
-package com.exampleMicroServicos.pagamentos.model;
+package com.exampleMicroServicos.model;
 
 import java.math.BigDecimal;
 
