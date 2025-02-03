@@ -53,7 +53,7 @@ public class Pagamento {
     private String codigo;
 
     @Enumerated(EnumType.STRING)
-    private Status Status;
+    private Status status;
 
     @NotNull
     private Long pedidoId;
