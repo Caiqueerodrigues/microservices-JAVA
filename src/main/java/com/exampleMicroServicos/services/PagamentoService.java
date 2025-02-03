@@ -13,5 +13,6 @@ public class PagamentoService {
     
     private final PagamentosRepository repository;
 
-    private final ModelMapper modelMapper;
+    private final ModelMapper modelMapper; 
+    //necessario para validação dos dados que irão entrar e sair pelo DTO, pra fazer as validações dos dados
 }
